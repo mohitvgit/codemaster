@@ -1,0 +1,49 @@
+slug: collections
+title: Snippet Collections
+splash: widescreen
+description: >-
+  30 seconds of code provides a wide variety of snippet and article
+  collections for all your development needs. Explore individual language
+  collections or browse through collections about specific topics and
+  programming concepts.
+shortDescription: >-
+  Browse through collections of snippets and articles about specific topics
+  and programming concepts.
+featuredListings:
+- js
+- css
+- react/hooks
+- js/algorithm
+- python
+- git
+- js/interviews
+- js/node
+- js/data-structures
+- js/promises
+- js/functional-programming
+- js/comparison
+- html/head-basics
+- css/centering
+- js/css-manipulation
+- js/url
+- js/proxy
+- js/dom-querying
+- js/dom-manipulation
+- js/event-handling
+- js/arrow-functions
+- js/performance
+- js/colors
+- js/array-methods
+- react/testing
+- css/hover-effects
+- js/generators
+- css/button-transitions
+- js/random-value-generators
+- js/web-storage-essentials
+- js/scroll
+- js/array-initialization
+- css/background-patterns
+- react/components
+- js/http-requests
+- web-development
+- cheatsheets

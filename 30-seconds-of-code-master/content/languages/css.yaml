@@ -1,0 +1,9 @@
+short: css
+long: css
+name: CSS
+additionalReferences: [javascript, html]
+references:
+  prefers-color-scheme: >-
+    https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme
+  '@property': >-
+    https://developer.mozilla.org/en-US/docs/Web/CSS/@property
